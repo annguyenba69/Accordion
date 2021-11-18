@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #4b145b;
+}
+
+#wrapper{
+    padding: 70px 0px;
+}
+
+#wrapper #main-content{
+    max-width: 1000px;
+    margin: 0px auto;
+    background-color: whitesmoke;
+    padding: 30px 30px;
+}
+
+.box-right{
+    box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+    padding: 20px 30px;
+}
+
+.box-right h5{
+    font-weight: bold;
+}
+.box-right .button{
+    outline: none;
+    background: none;
+    border: none;
+    padding: 4px 8px;
+    background-color: bisque;
+    border-radius: 50%;
+}
+
+.box-right .box-right-content {
+    font-weight: lighter;
+}
+
